@@ -118,3 +118,6 @@ body {
 .lab-btn--lg {
   font-size: var(--lab-btn__large__font-size);
 }
+.log-1{
+  margin-top: 2%;
+}
