@@ -48,12 +48,12 @@ picture {
   vertical-align: middle;
 }
 
-body {
+/* body {
   font: 1em / var(--global__leading) var(--global__font-stack);
   background-color: hsl(var(--body__bg-color));
   color: hsl(var(--body__color__900) / 90%);
 }
-
+ */
 .site-container {
   max-width: var(--container__max-width);
   padding: var(--container__padding);
@@ -120,5 +120,5 @@ body {
 }
 .log-1{
   margin-top: 2%;
-  margin-bottom: -2%;
+/*   margin-bottom: %; */
 }
